@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "/images/headshot.jpg"
-  name             : "XX Y"
+  name             : *name
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher in Seismology"
   location         : "Miami, FL"
