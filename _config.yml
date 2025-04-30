@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xusong Yang"
+title                    : "XX Y"
 title_separator          : "-"
 name                     : &name "Xusong Yang"
 description              : &description "Postdoctoral Associate"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "headshot.jpg"
-  name             : "Xusong Yang"
+  name             : "XX Y"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher in Seismology"
   location         : "Miami, FL"
