@@ -7,10 +7,10 @@ author_profile: true
 
 ## Journal Articles
 
-- **Yang, X.**, Xie, Y., Rychert, C. A., Harmon, N., Goes, S., Rietbrock, A., ... & VoiLA Working Group (2025). Seismic imaging of a basaltic Lesser Antilles slab from ancient tectonics. <a href="https://www.nature.com/articles/s41586-025-08754-0">[link]</a> *Nature*
-- **Yang, X.**, Tian, X., Wan, B., Yuan, H., Zhao, L., & Xiao, W. (2024). Impact of ancient tectonics on intracontinental deformation partitioning: Insights from crustal structures of the East Junggar‐Altai area. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JB027949">[link]</a> *JGR: Solid Earth*
-- **Yang, X.**, Tian, X., Windley, B. F., Zhao, L., Lu, Y., Yuan, H., & Xiao, W. (2022). The role of multiple trapped oceanic basins in continental growth: Seismic evidence from the southern Altaids. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL098548">[link]</a> *Geophysical Research Letters*
-- Wan, B., **Yang, X.**, Tian, X., Yuan, H., Kirscher, U., & Mitchell, R. N. (2020). Seismological evidence for the earliest global subduction network at 2 Ga ago. <a href="https://www.science.org/doi/full/10.1126/sciadv.abc5491">[link]</a> *Science Advances*
+- **Yang, X.**, Xie, Y., Rychert, C. A., Harmon, N., Goes, S., Rietbrock, A., ... & VoiLA Working Group (2025). Seismic imaging of a basaltic Lesser Antilles slab from ancient tectonics. *Nature* <a href="https://www.nature.com/articles/s41586-025-08754-0">[link]</a>
+- **Yang, X.**, Tian, X., Wan, B., Yuan, H., Zhao, L., & Xiao, W. (2024). Impact of ancient tectonics on intracontinental deformation partitioning: Insights from crustal structures of the East Junggar‐Altai area. *JGR: Solid Earth* <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JB027949">[link]</a>
+- **Yang, X.**, Tian, X., Windley, B. F., Zhao, L., Lu, Y., Yuan, H., & Xiao, W. (2022). The role of multiple trapped oceanic basins in continental growth: Seismic evidence from the southern Altaids. *Geophysical Research Letters* <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL098548">[link]</a>
+- Wan, B., **Yang, X.**, Tian, X., Yuan, H., Kirscher, U., & Mitchell, R. N. (2020). Seismological evidence for the earliest global subduction network at 2 Ga ago. *Science Advances* <a href="https://www.science.org/doi/full/10.1126/sciadv.abc5491">[link]</a>
 
 
 ## Conference Papers
