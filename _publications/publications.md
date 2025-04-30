@@ -7,8 +7,10 @@ author_profile: true
 
 ## Journal Articles
 
-- **Xusong Yang**, Jane Smith (2023). [Seismic Imaging of the Mantle Transition Zone](https://doi.org/10.1234/mtz2023). *JGR: Solid Earth*
-- **Xusong Yang**, Jane Doe (2022). [Detection of Subducted Oceanic Plateaus](https://doi.org/10.5678/plateau2022). *Nature Geoscience*
+- **Yang, X.**, Xie, Y., Rychert, C. A., Harmon, N., Goes, S., Rietbrock, A., ... & VoiLA Working Group (2025). Seismic imaging of a basaltic Lesser Antilles slab from ancient tectonics. [link](https://www.nature.com/articles/s41586-025-08754-0) *Nature*
+- **Yang, X.**, Tian, X., Wan, B., Yuan, H., Zhao, L., & Xiao, W. (2024). Impact of ancient tectonics on intracontinental deformation partitioning: Insights from crustal structures of the East Junggar‐Altai area. [link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JB027949) *JGR: Solid Earth*
+- **Yang, X.**, Tian, X., Windley, B. F., Zhao, L., Lu, Y., Yuan, H., & Xiao, W. (2022). The role of multiple trapped oceanic basins in continental growth: Seismic evidence from the southern Altaids. [Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL098548) *Geophysical Research Letters*
+- Wan, B., **Yang, X.**, Tian, X., Yuan, H., Kirscher, U., & Mitchell, R. N. (2020). Seismological evidence for the earliest global subduction network at 2 Ga ago. [link](https://www.science.org/doi/full/10.1126/sciadv.abc5491) *Science Advances*
 
 ## Conference Papers
 
