@@ -10,7 +10,7 @@ author_profile: true
 <ol>
   <li value="5"><strong>Yang, X.</strong>, Xie, Y., Rychert, C. A., Harmon, N., Goes, S., Rietbrock, A., ... & VoiLA Working Group (2025). Seismic imaging of a basaltic Lesser Antilles slab from ancient tectonics. <em>Nature</em> <a href="https://www.nature.com/articles/s41586-025-08754-0">[link]</a> (press release by <a href="https://english.cas.cn/newsroom/research_news/earth/202504/t20250407_909539.shtml">CAS</a> and <a href="https://www.southampton.ac.uk/smmi/news/2025/04/sink-or-swim-the-fate-of-sinking-tectonic-plates-depends-on-their-ancient-tectonic-histories.page">UoS</a>)</li>
 
-  <li value="4"><strong>Yang, X.</strong>, Tian, X., Wan, B., Yuan, H., Zhao, L., & Xiao, W. (2024). Impact of ancient tectonics on intracontinental deformation partitioning.</em> <em>JGR: Solid Earth <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JB027949">[link]</a></li>
+  <li value="4"><strong>Yang, X.</strong>, Tian, X., Wan, B., Yuan, H., Zhao, L., & Xiao, W. (2024). Impact of ancient tectonics on intracontinental deformation partitioning. <em>JGR: Solid Earth</em> <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JB027949">[link]</a></li>
 
   <li value="3"><strong>Yang, X.</strong>, Tian, X., Windley, B. F., Zhao, L., Lu, Y., Yuan, H., & Xiao, W. (2022). The role of multiple trapped oceanic basins in continental growth.</em> <em>Geophysical Research Letters <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL098548">[link]</a></li>
 
