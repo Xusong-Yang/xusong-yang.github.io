@@ -14,22 +14,37 @@ Education
 * Ph.D in Seismology, Institute of Geology and Geophyscics, Chinese Academy of Sciences, 2022 
 * B.S. in Solid Geophysics, Jilin University, 2015
 
-Work experience
+Appointments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-now: Post Doctoral Associate, Seismology  
+  * Department of Marine Geoscience<br>
+   Rosenstiel School, University of Miami, Miami, FL, USA<br>
+  * _Advised by Dr. Guoqing Lin_
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-2024: Visiting Academic, Seismology
+  * National Oceanography Center<br>
+    University of Southampton, Southampton, UK<br>
+  * _Advised by Dr. Catherine Rychert_
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2023: Research Assistant, Seismology
+  * Institute of Geology and Geophysics<br>
+    Chinese Academy of Sciences, Beijing, CN<br>
+  * _Advised by Dr. Xiaobo Tian & Dr. Bo Wan_
+
+* Summer 2021: Intern, Seismology (JST Sakura Science Program)
+  * Earthquke Research Institute<br>
+    University of Tokyo, Tokyo, JP<br>
+  * _Advised by Dr. Miyake Hiroe_
+
+* Summer 2019: Intern, Tectonics 
+  * Université d'Orléans, CNRS, Orléans, FR
+  * _Advised by Dr. Michel Faure & Dr. Yan Chen_
+  
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
@@ -39,25 +54,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
