@@ -38,7 +38,7 @@ author_profile: true
 ## Manuscripts in revision/review
 
 <ol>
-  <li value="1"><strong>Yang, X.</strong>, Wan, B., Yan, S. Imaging of Subduction in a Precambrian Craton. <em> in review</em></li>
+  <li value="1"><strong>Yang, X.</strong>, Wan, B., Yan, S. Imaging of Subduction in a Precambrian Craton. <em> submitted</em></li>
 </ol>    
     
 
