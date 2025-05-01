@@ -24,11 +24,10 @@ author_profile: true
 <h2> Conference Papers</h2>
 
 <ol>
-  <li value="7"><strong>Yang, X.+ </strong>, 2024. Magmatic Plumbing System Beneath Mauna Loa Volcano Imaged With a New Seismic Nodal Array. <em>AGU (American Geophysical Union) Annual Meeting</em> 
-
-  <li value="6"><strong>Yang, X.+ </strong>, 2023. Impact of Ancient Tectonics on Intracontinental Deformation Partitioning: Insight from Crustal Structures of the Chinese Altai Mountains. <em> CGU (Chinese Geosciences Union) Annual Meeting</em>
-  <li value="5"><strong>Yang, X.+ </strong>, 2022. Mechanism for Episodic Continental Growth: A Seismological Perspective. <em> CGU Annual Meeting</em> <strong>[Outstanding Student Paper Award]</strong>
-  <li value="4"><strong>Yang, X.+ </strong>, 2021. Mantle Transition Zone Zeneath the Lesser Antilles. <em> AGU Annual Meeting</em>
+  <li value="7"><strong>Yang, X.+ </strong>, 2024. Magmatic Plumbing System Beneath Mauna Loa Volcano Imaged With a New Seismic Nodal Array. <em>AGU (American Geophysical Union) Annual Meeting</em></li> 
+  <li value="6"><strong>Yang, X.+ </strong>, 2023. Impact of Ancient Tectonics on Intracontinental Deformation Partitioning: Insight from Crustal Structures of the Chinese Altai Mountains. <em> CGU (Chinese Geosciences Union) Annual Meeting</em></li>
+  <li value="5"><strong>Yang, X.+ </strong>, 2022. Mechanism for Episodic Continental Growth: A Seismological Perspective. <em> CGU Annual Meeting</em> <strong>[Outstanding Student Paper Award]</strong></li>
+  <li value="4"><strong>Yang, X.+ </strong>, 2021. Mantle Transition Zone Zeneath the Lesser Antilles. <em> AGU Annual Meeting</em></li>
   <li value="3"><strong>Yang, X.+</strong>, 2021. Seismological Evidence for the Earliest Global Network at 2 Ga. <em>SSA (Seismological Society of America) Annual Meeting</em> <strong>[Invited talk & <a href="https://www.seismosoc.org/news/seismic-signs-of-earliest-subduction-network-found-in-china/">SSA press highlight</a>]</strong></li>
   <li value="2"><strong>Yang, X.+ </strong>, 2020. Arcuate Moho Fragments Revealed by Dense Seismic Nodal Array in the World's Largest Continental Center. <em> SSA Annual Meeting</em></li>
   <li value="1"><strong>Yang, X.+ </strong>, 2018. New images of the crustal structure beneath eastern Junggar from a high-density seismic array. <em> AGU Annual Meeting</em></li>
