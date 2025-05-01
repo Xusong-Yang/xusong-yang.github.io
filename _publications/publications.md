@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Articles
+<h2> Journal Articles</h2>
 
 <ol>
   <li value="5"><strong>Yang, X.</strong>, Xie, Y., Rychert, C. A., Harmon, N., Goes, S., Rietbrock, A., ... & VoiLA Working Group (2025). Seismic imaging of a basaltic Lesser Antilles slab from ancient tectonics. <em>Nature</em> <a href="https://www.nature.com/articles/s41586-025-08754-0">[link]</a> (press release by <a href="https://english.cas.cn/newsroom/research_news/earth/202504/t20250407_909539.shtml">CAS</a> and <a href="https://www.southampton.ac.uk/smmi/news/2025/04/sink-or-swim-the-fate-of-sinking-tectonic-plates-depends-on-their-ancient-tectonic-histories.page">UoS</a>)</li>
@@ -21,7 +21,7 @@ author_profile: true
 
 
 
-## Conference Papers
+<h2> Conference Papers</h2>
 
 <ol>
   <li value="7"><strong>Yang, X.+ </strong>, 2024. Magmatic Plumbing System Beneath Mauna Loa Volcano Imaged With a New Seismic Nodal Array. <em>AGU (American Geophysical Union) Annual Meeting</em> 
@@ -35,7 +35,8 @@ author_profile: true
 
 </ol>
 
-## Manuscripts in revision/review
+
+<h2>Manuscripts in revision/review</h2>
 
 <ol>
   <li value="1"><strong>Yang, X.</strong>, Wan, B., Yan, S. Imaging of Subduction in a Precambrian Craton. <em> submitted</em></li>
