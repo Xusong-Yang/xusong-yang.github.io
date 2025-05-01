@@ -31,7 +31,6 @@ author_profile: true
   <li value="3"><strong>Yang, X.+</strong>, 2021. Seismological Evidence for the Earliest Global Network at 2 Ga. <em>SSA (Seismological Society of America) Annual Meeting</em> <strong>[Invited talk & <a href="https://www.seismosoc.org/news/seismic-signs-of-earliest-subduction-network-found-in-china/">SSA press highlight</a>]</strong></li>
   <li value="2"><strong>Yang, X.+ </strong>, 2020. Arcuate Moho Fragments Revealed by Dense Seismic Nodal Array in the World's Largest Continental Center. <em> SSA Annual Meeting</em></li>
   <li value="1"><strong>Yang, X.+ </strong>, 2018. New images of the crustal structure beneath eastern Junggar from a high-density seismic array. <em> AGU Annual Meeting</em></li>
-
 </ol>
 
 
