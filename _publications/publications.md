@@ -16,23 +16,22 @@ author_profile: true
 
   <li value="2">Wan, B., <strong>Yang, X.</strong>, Tian, X., Yuan, H., Kirscher, U., & Mitchell, R. N. (2020). <em>Seismological evidence for the earliest global subduction network at 2 Ga ago.</em> <em>Science Advances</em> <a href="https://www.science.org/doi/full/10.1126/sciadv.abc5491">[link]</a></li>
 
-  <li value="1">Tian, X., Bai, Z., Klemperer, S. L., Liang, X., Liu, Z., Wang, X., <strong>Yang, X.</strong>, ... & Zhu, G. (2021). <em>Crustal-scale wedge tectonics at the narrow boundary between the Tibetan Plateau and Ordos block.</em> <em>Earth and Planetary Science Letters</em> <a href="https://www.sciencedirect.com/science/article/pii/S0012821X20306440">[link]</a></li>
+  <li value="1">Tian, X., Bai, Z., Klemperer, S. L., Liang, X., Liu, Z., Wang, X., <strong>Yang, X.</strong>, ... & Zhu, G. (2021). <em>Crustal-scale wedge tectonics at the narrow boundary between the Tibetan Plateau and Ordos block.</em> <em>Earth and Planetary Science Letters</em> <a href="https://www.sciencedirect.com/science/article/pii/S0012821X20306440">[link]</a>  (press release by <a href="https://english.cas.cn/newsroom/research_news/earth/202008/t20200806_241507.shtml">CAS</a>)</li>
 </ol>
-
 
 
 
 ## Conference Papers
 
 <ol>
-  <li value="7"><strong>Xusong Yang+ </strong>, 2024. Magmatic Plumbing System Beneath Mauna Loa Volcano Imaged With a New Seismic Nodal Array. <em>AGU (American Geophysical Union) Annual Meeting</em> 
+  <li value="7"><strong>Yang, X.+ </strong>, 2024. Magmatic Plumbing System Beneath Mauna Loa Volcano Imaged With a New Seismic Nodal Array. <em>AGU (American Geophysical Union) Annual Meeting</em> 
 
-  <li value="6"><strong>Xusong Yang+ </strong>, 2023. Impact of Ancient Tectonics on Intracontinental Deformation Partitioning: Insight from Crustal Structures of the Chinese Altai Mountains. <em> CGU (Chinese Geosciences Union) Annual Meeting</em>
-  <li value="5"><strong>Xusong Yang+ </strong>, 2022. Mechanism for Episodic Continental Growth: A Seismological Perspective. <em> CGU Annual Meeting</em> <strong>[Outstanding Student Paper Award]</strong>
-  <li value="4"><strong>Xusong Yang+ </strong>, 2021. Mantle Transition Zone Zeneath the Lesser Antilles. <em> AGU Annual Meeting</em>
-  <li value="3"><strong>Xusong Yang+</strong>, 2021. Seismological Evidence for the Earliest Global Network at 2 Ga. <em>SSA (Seismological Society of America) Annual Meeting</em> <strong>[Invited talk & <a href="https://www.seismosoc.org/news/seismic-signs-of-earliest-subduction-network-found-in-china/">SSA press highlight</a>]</strong></li>
-  <li value="2"><strong>Xusong Yang+ </strong>, 2020. Arcuate Moho Fragments Revealed by Dense Seismic Nodal Array in the World's Largest Continental Center. <em> SSA Annual Meeting</em>
-  <li value="1"><strong>Xusong Yang+ </strong>, 2018. New images of the crustal structure beneath eastern Junggar from a high-density seismic array. <em> AGU Annual Meeting</em>
+  <li value="6"><strong>Yang, X.+ </strong>, 2023. Impact of Ancient Tectonics on Intracontinental Deformation Partitioning: Insight from Crustal Structures of the Chinese Altai Mountains. <em> CGU (Chinese Geosciences Union) Annual Meeting</em>
+  <li value="5"><strong>Yang, X.+ </strong>, 2022. Mechanism for Episodic Continental Growth: A Seismological Perspective. <em> CGU Annual Meeting</em> <strong>[Outstanding Student Paper Award]</strong>
+  <li value="4"><strong>Yang, X.+ </strong>, 2021. Mantle Transition Zone Zeneath the Lesser Antilles. <em> AGU Annual Meeting</em>
+  <li value="3"><strong>Yang, X.+</strong>, 2021. Seismological Evidence for the Earliest Global Network at 2 Ga. <em>SSA (Seismological Society of America) Annual Meeting</em> <strong>[Invited talk & <a href="https://www.seismosoc.org/news/seismic-signs-of-earliest-subduction-network-found-in-china/">SSA press highlight</a>]</strong></li>
+  <li value="2"><strong>Yang, X.+ </strong>, 2020. Arcuate Moho Fragments Revealed by Dense Seismic Nodal Array in the World's Largest Continental Center. <em> SSA Annual Meeting</em>
+  <li value="1"><strong>Yang, X.+ </strong>, 2018. New images of the crustal structure beneath eastern Junggar from a high-density seismic array. <em> AGU Annual Meeting</em>
 
 </ol>
 
