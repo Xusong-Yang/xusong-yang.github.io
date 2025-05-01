@@ -12,11 +12,11 @@ author_profile: true
 
   <li value="4"><strong>Yang, X.</strong>, Tian, X., Wan, B., Yuan, H., Zhao, L., & Xiao, W. (2024). Impact of ancient tectonics on intracontinental deformation partitioning. <em>JGR: Solid Earth</em> <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JB027949">[link]</a></li>
 
-  <li value="3"><strong>Yang, X.</strong>, Tian, X., Windley, B. F., Zhao, L., Lu, Y., Yuan, H., & Xiao, W. (2022). The role of multiple trapped oceanic basins in continental growth.</em> <em>Geophysical Research Letters <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL098548">[link]</a></li>
+  <li value="3"><strong>Yang, X.</strong>, Tian, X., Windley, B. F., Zhao, L., Lu, Y., Yuan, H., & Xiao, W. (2022). The role of multiple trapped oceanic basins in continental growth. <em>Geophysical Research Letters</em> <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL098548">[link]</a></li>
 
-  <li value="2">Wan, B., <strong>Yang, X.</strong>, Tian, X., Yuan, H., Kirscher, U., & Mitchell, R. N. (2020). Seismological evidence for the earliest global subduction network at 2 Ga ago.</em> <em>Science Advances <a href="https://www.science.org/doi/full/10.1126/sciadv.abc5491">[link]</a></li>
+  <li value="2">Wan, B., <strong>Yang, X.</strong>, Tian, X., Yuan, H., Kirscher, U., & Mitchell, R. N. (2020). Seismological evidence for the earliest global subduction network at 2 Ga ago. <em>Science Advances</em> <a href="https://www.science.org/doi/full/10.1126/sciadv.abc5491">[link]</a></li>
 
-  <li value="1">Tian, X., Bai, Z., Klemperer, S. L., Liang, X., Liu, Z., Wang, X., <strong>Yang, X.</strong>, ... & Zhu, G. (2021). Crustal-scale wedge tectonics at the narrow boundary between the Tibetan Plateau and Ordos block.</em> <em>Earth and Planetary Science Letters <a href="https://www.sciencedirect.com/science/article/pii/S0012821X20306440">[link]</a>  (press release by <a href="https://english.cas.cn/newsroom/research_news/earth/202008/t20200806_241507.shtml">CAS</a>)</li>
+  <li value="1">Tian, X., Bai, Z., Klemperer, S. L., Liang, X., Liu, Z., Wang, X., <strong>Yang, X.</strong>, ... & Zhu, G. (2021). Crustal-scale wedge tectonics at the narrow boundary between the Tibetan Plateau and Ordos block. <em>Earth and Planetary Science Letters</em> <a href="https://www.sciencedirect.com/science/article/pii/S0012821X20306440">[link]</a>  (press release by <a href="https://english.cas.cn/newsroom/research_news/earth/202008/t20200806_241507.shtml">CAS</a>)</li>
 </ol>
 
 
