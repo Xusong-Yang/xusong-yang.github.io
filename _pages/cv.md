@@ -46,11 +46,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Skills
+Honors and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **2022** Outstanding Student Paper Award, _Chinese Geoscience Union_
+* **2021** ERI Summer School Travel Award, _Japan Science and Technology Agency_
+* **2020** Award for Excellent Scientific and Technological Research of the Year (¥20,000), _Institute of Geology and Geophysics, Chinese Academy of Sciences_
+* **2020** Award for Excellent Research of the Year (¥10,000), _Chinese Geophysical Society_
+* **2019** Merit Student Award, _University of Chinese Academy of Sciences_
+* **2015** Third-Class Scholarship (¥500), _Jilin University_
