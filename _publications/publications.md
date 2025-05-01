@@ -25,9 +25,9 @@ author_profile: true
 ## Conference Papers
 
 <ol>
-  <li value="5"><strong>Xusong Yang+</strong> 2024 <em>Magmatic Plumbing System Beneath Mauna Loa Volcano Imaged With a New Seismic Nodal Array.</em> <em>AGU Annual Meeting</em> 
+  <li value="5"><strong>Xusong Yang+ </strong> 2024 Magmatic Plumbing System Beneath Mauna Loa Volcano Imaged With a New Seismic Nodal Array <em>AGU Annual Meeting</em> 
 
-  <li value="4"><strong>Xusong Yang+</strong>2023 <em>Impact of Ancient Tectonics on Intracontinental Deformation Partitioning: Insight from Crustal Structures of the Chinese Altai Mountains</em> <em>
+  <li value="4"><strong>Xusong Yang+ </strong> 2023 Impact of Ancient Tectonics on Intracontinental Deformation Partitioning: Insight from Crustal Structures of the Chinese Altai Mountains <em> CGU Annual Meeting</em>
 
 ## Preprints
 
