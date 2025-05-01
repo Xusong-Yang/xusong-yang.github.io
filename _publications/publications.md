@@ -35,7 +35,10 @@ author_profile: true
 
 </ol>
 
-## Preprints
+## Manuscripts in revision/review
 
-- **Xusong Yang**, in review. [Basalt Accumulation in the Mantle Transition Zone](https://doi.org/10.9999/preprint-mtz). *EarthArXiv*
+<ol>
+  <li value="1"><strong>Yang, X.</strong>, Wan, B., Yan, S. Imaging of Subduction in a Precambrian Craton. <em> in review</em></li>
+</ol>    
+    
 
