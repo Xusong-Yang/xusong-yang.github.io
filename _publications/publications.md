@@ -2,7 +2,8 @@
 layout: single
 title: "Publications"
 permalink: /publications/
-author_profile: false
+author_profile: true
+share: false
 ---
 
 <h2> Journal Articles</h2>
