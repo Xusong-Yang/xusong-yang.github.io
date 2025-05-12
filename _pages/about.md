@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Xusong Yang (杨旭松)"
 author_profile: true
 redirect_from: 
   - /about/
